@@ -1,2 +1,3 @@
 # podium-app
-A desktop application to assist your contributions in work meetings
+
+A desktop application to assist your contributions in work meetings. In development. Coming soon...
